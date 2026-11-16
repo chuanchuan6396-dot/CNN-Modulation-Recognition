@@ -1,0 +1,4 @@
+﻿Dropout,Model,Samples,Accuracy
+0.0,models/vtcnn.pt,44000,50.56590909090909
+0.3,models/vtcnn_dropout03.pt,44000,53.209090909090904
+0.5,models/vtcnn_dropout05.pt,44000,50.64545454545455
