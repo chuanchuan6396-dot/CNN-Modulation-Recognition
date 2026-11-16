@@ -5,3 +5,4 @@ tqdm
 poutyne
 tensorboard
 matplotlib
+streamlit
