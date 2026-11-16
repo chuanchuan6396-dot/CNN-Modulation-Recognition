@@ -1,0 +1,22 @@
+
+*.pyc
+*.toml
+*.txt
+*checkpoint.ipynb
+.vscode/*
+.mypy_cache/*
+
+# 数据集不上传
+data/*
+
+# 保留训练模型权重，允许上传
+models/*
+!models/
+!models/*.pt
+
+# 训练日志不上传
+logs/*
+results/*
+
+# 保留依赖配置
+!requirements.txt

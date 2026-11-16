@@ -1,0 +1,7 @@
+
+numpy
+torch
+tqdm
+poutyne
+tensorboard
+matplotlib
